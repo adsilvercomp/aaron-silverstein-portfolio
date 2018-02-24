@@ -258,14 +258,14 @@ a:hover{
 	}
     .project-container {
         margin-top:280px;
-    }
-}
-
-@media screen and (max-width: 400px) {
-	.project-description{
-		margin-bottom:70px;
+	}
+	
+	.project-section{
+		margin-bottom:100px;
 	}
 }
+
+
 
 /* icons********** */
 
