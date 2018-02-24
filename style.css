@@ -263,15 +263,15 @@ a:hover{
 
 @media screen and (max-width: 400px) {
 	#savor{
-		margin-bottom:90px;
+		padding-bottom:70px;
 	}
 
 	#entertainment-trivia{
-		margin-bottom:90px;
+		padding-bottom:70px;
 	}
 
 	#nyt{
-		margin-bottom:90px;
+		padding-bottom:70px;
 	}
 }
 
