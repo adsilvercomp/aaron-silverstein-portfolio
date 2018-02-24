@@ -262,17 +262,11 @@ a:hover{
 }
 
 @media screen and (max-width: 400px) {
-	#savor{
+	.project-description{
 		padding-bottom:70px;
 	}
 
-	#entertainment-trivia{
-		padding-bottom:70px;
-	}
-
-	#nyt{
-		padding-bottom:70px;
-	}
+	
 }
 
 /* icons********** */
