@@ -263,10 +263,8 @@ a:hover{
 
 @media screen and (max-width: 400px) {
 	.project-description{
-		padding-bottom:70px;
+		margin-bottom:70px;
 	}
-
-	
 }
 
 /* icons********** */
